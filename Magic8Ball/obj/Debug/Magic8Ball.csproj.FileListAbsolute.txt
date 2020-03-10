@@ -1,0 +1,14 @@
+D:\c#\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+D:\c#\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe
+D:\c#\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.pdb
+D:\c#\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csprojAssemblyReference.cache
+D:\c#\Magic8Ball\Magic8Ball\obj\Debug\MainWindow.g.cs
+D:\c#\Magic8Ball\Magic8Ball\obj\Debug\App.g.cs
+D:\c#\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball_MarkupCompile.cache
+D:\c#\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball_MarkupCompile.lref
+D:\c#\Magic8Ball\Magic8Ball\obj\Debug\MainWindow.baml
+D:\c#\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.g.resources
+D:\c#\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.Properties.Resources.resources
+D:\c#\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csproj.GenerateResource.cache
+D:\c#\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.exe
+D:\c#\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.pdb
